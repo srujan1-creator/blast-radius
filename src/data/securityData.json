@@ -1,0 +1,20 @@
+{
+  "$schema": "https://blastradius.dev/schemas/v1/security-graph-data.json",
+  "version": "1.0.0",
+  "meta": {
+    "organization": "Cloud Retail Systems Inc.",
+    "cluster": "prod-us-east-1",
+    "lastScan": "2026-10-15T15:30:00Z",
+    "graphEngine": "FalkorDB GraphBLAS compatible"
+  },
+  "stats": {
+    "alertsReceived": 2148,
+    "noiseSuppressedPercentage": 94.2,
+    "noiseSuppressedCount": 2024,
+    "criticalAttackPaths": 3,
+    "actionsTaken": 12
+  },
+  "nodesCount": 27,
+  "edgesCount": 27,
+  "findingsCount": 15
+}
